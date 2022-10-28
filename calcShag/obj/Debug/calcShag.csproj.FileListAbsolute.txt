@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\calcShag\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\calcShag\obj\Debug\App.g.cs
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag_MarkupCompile.cache
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag_MarkupCompile.lref
+C:\Users\user\Desktop\calcShag\bin\Debug\calcShag.exe.config
+C:\Users\user\Desktop\calcShag\bin\Debug\calcShag.exe
+C:\Users\user\Desktop\calcShag\bin\Debug\calcShag.pdb
+C:\Users\user\Desktop\calcShag\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.g.resources
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.Properties.Resources.resources
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.csproj.GenerateResource.cache
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.exe
+C:\Users\user\Desktop\calcShag\obj\Debug\calcShag.pdb
